@@ -31,7 +31,7 @@
   },
   "scripts": {
     "dev": "react-scripts start",
-    "start": "serve -s build -l ${PORT:-3000}",
+    "start": "serve -s build",
     "serve": "serve -s build",
     "build": "react-scripts build",
     "test": "react-scripts test",
